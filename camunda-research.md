@@ -22,4 +22,8 @@ https://github.com/camunda/camunda-bpm-examples/tree/master/spring-boot-starter/
 
 https://docs.camunda.org/manual/7.8/reference/bpmn20/tasks/user-task/
 
+https://jira.camunda.com/browse/CAM-3453
+
+https://www.google.com/search?q=camunda+how+to+transition+via+java+api&rlz=1C1GCEA_enUS874US875&oq=camunda+how+to+transition+via+java+api&aqs=chrome..69i57.12464j0j7&sourceid=chrome&ie=UTF-8
+
 
