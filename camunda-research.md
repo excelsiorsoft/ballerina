@@ -20,4 +20,6 @@ https://www.programcreek.com/java-api-examples/?class=org.camunda.bpm.engine.Pro
 
 https://github.com/camunda/camunda-bpm-examples/tree/master/spring-boot-starter/example-webapp
 
+https://docs.camunda.org/manual/7.8/reference/bpmn20/tasks/user-task/
+
 
